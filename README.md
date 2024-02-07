@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**psychoxripp3r/psychoxripp3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me:
+<b>Hi ! I am Taslimul Hasan Toufique.<br>I live in Dhaka, Bangladesh.<br>I have completed my high school from Nirjhor Cantonment Public School and College and intermediate from Mirpur Cantonment Public School and College, Dhaka.<br>I am currently exploring android development.
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=psychoxripp3r&theme=default&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=psychoxripp3r&theme=default&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=psychoxripp3r&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=psychoxripp3r&icon=0&color=12)](https://visitcount.itsvg.in)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
